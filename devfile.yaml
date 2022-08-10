@@ -4,4 +4,4 @@ metadata:
 components:
   - name: failing-container
     container:
-      image: quay.io/dkwon17/test:python-fail-fast
+      image: quay.io/dkwon17/testtesttesttest:python-fail-fast
